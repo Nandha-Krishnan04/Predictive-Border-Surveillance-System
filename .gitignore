@@ -1,0 +1,14 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Downloaded model weights and local media
+*.pt
+sample_videos/
+*.mp4
+
+# Generated reports and outputs
+results/
+*.log
